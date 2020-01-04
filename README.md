@@ -45,3 +45,21 @@ In this baseline, we choose random result, that is in [0, 9], for each test vect
 In this section, we use unittest to verify the accuracy and confusion matrix of method "Logistic Regression".
 
 ## Deep Neural Network: Convolutional Neural Network
+
+# Conclusion
+
+In this project, as you see, we did:
+
++ How to explore extensions to a baseline model to improve training and predicting capacity.
+
++ How to use unit tests for the API and the model
+
++ How to use unit tests for logging
+
++ Can all of the unit tests be run with a single script and do all of the unit tests pass?
+
++ How to monitor performance
+
++ How to compare multiple models
+
++ How to use visualizations for the EDA investigation
